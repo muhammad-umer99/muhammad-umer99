@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Muhammad Umer
 
-I'm a passionate **Web Developer** with over 2 years of professional experience, specializing in crafting responsive and high-performance websites for businesses and individuals. I focus on delivering beautiful, fast, and user-friendly web experiences that drive results.
+I'm a passionate **Web Developer** with over 1 years of professional experience, specializing in crafting responsive and high-performance websites for businesses and individuals. I focus on delivering beautiful, fast, and user-friendly web experiences that drive results.
 
 ---
 
