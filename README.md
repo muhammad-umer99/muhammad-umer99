@@ -1,13 +1,65 @@
-# 💫 About Me:
-👀 I’m interested in web development and UI/UX designing.<br><br>🌱 I’m currently learning web development and UI/UX designing.<br><br>💞️ I’m looking to collaborate on front-end projects to make websites more user-friendly and attractive.<br><br>📫 How to reach me: You can reach me through my LinkedIn profile.<br><br>😄 Pronouns: Muhammad Umer<br><br>⚡ Fun fact: My favorite part of web development is crafting interactions that feel intuitive, like turning pages in a well-loved book.
+# 👋 Hey there! I'm Muhammad Umer
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+I'm a passionate **Web Developer** with over 2 years of professional experience, specializing in crafting responsive and high-performance websites for businesses and individuals. I focus on delivering beautiful, fast, and user-friendly web experiences that drive results.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=muhammad-umer99&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+- 🚀 **Freelance Web Developer**
+- 🌍 Turning design ideas into reality with performance, clean code, and engagement in mind.
+- 💡 Always learning about web animation, motion design, and the latest web trends.
+
+---
+
+## 💼 Skills & Technologies
+
+**Web Platforms:**  
+Webflow • WordPress • Shopify • Framer
+
+**Frontend:**  
+HTML5 • CSS3 • JavaScript
+
+**Visual Builders:**  
+Elementor • Divi • Oxygen Builder
+
+**Version Control:**  
+Git • GitHub
+
+**Design to Code:**  
+Figma/XD → Web
+
+---
+
+## 🌟 Projects & Achievements
+
+- 🛍️ Created multiple e-commerce stores on Shopify with custom UI/UX.
+- 🖼️ Developed pixel-perfect portfolio sites from Figma to Webflow.
+- ⚡ Helped clients increase conversion rates through modern, responsive designs.
+
+---
+
+## 📄 Short Bio
+
+I'm a creative developer who loves transforming design concepts into interactive web experiences. Whether it's a business website, portfolio, or online store, I focus on performance, clean code, and user engagement.
+
+---
+
+## 🌐 Connect with Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=vercel&logoColor=white)](https://muhammadumer.website/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-umer-abbas/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/websitedesigner______/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhammad-umer99)
+
+---
+
+## 🎯 Fun Facts & Interests
+
+- 🧠 Always exploring web animation and motion design.
+- 🎮 Gaming enthusiast and a fan of new design trends.
+- 📚 Passionate about self-growth and online learning.
+
+---
+
+<!-- Let's build something amazing together! -->
